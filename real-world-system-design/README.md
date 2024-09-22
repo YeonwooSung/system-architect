@@ -4,3 +4,7 @@ As you know, it is very helpful to refer to real examples when studying programm
 To be a great system architect, it is worth to know great system architectures in real-world.
 
 ## Real World System Designs
+
+- [Youtube](./youtube)
+- [Twitter](./twitter)
+- [Netflix](./netflix)
