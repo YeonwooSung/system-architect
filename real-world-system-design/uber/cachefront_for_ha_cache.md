@@ -1,6 +1,6 @@
 # How Uber Served 40 Million Reads with Integrated Redis Cache?
 
-![Uber Cache Flow](./imgs/cacheflow.png)
+![Uber CacheFront](./imgs/cachefront.png)
 
 There are 3 main parts of the implementation:
 
